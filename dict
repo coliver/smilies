@@ -3733,6 +3733,11 @@ CASE 0
 BAD reveiwing
 GOOD reviewing
 
+COMPLETE 0
+CASE 1
+BAD :roll:
+GOOD ◔̯◔
+
 COMPLETE 1
 CASE 0
 BAD rumers
